@@ -13,9 +13,9 @@ A minimal and modern Omarchy Waybar configuration designed for a clean desktop l
 
 ---
 
-![Preview](screenshots/screenshot-2025-11-06_14-39-17.png)
+![Preview](screenshot/screenshot-2025-11-06_14-39-17.png)
 
 ---
 
-![Preview](screenshots/screenshot-2025-11-06_14-39-00.png)
+![Preview](screenshot/screenshot-2025-11-06_14-39-00.png)
 
